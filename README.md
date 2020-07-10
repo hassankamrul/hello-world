@@ -1,5 +1,5 @@
 # hello-world
 preparing a new repository
-hi all
-I am making some changes in the intial file
-hope you won't mind
+need to make some changes
+what do you think? shall I? 
+shall I go for it?
